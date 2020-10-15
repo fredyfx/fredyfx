@@ -1,21 +1,23 @@
-Aloha~ 👋
+###Aloha~ 👋
 
 Hola buenas madrugadas, mi nombre es Fredy Guibert y aquí le vamos siempre Con todo el power 2.0!!! 
 
-Me encantan las tecnologías Microsoft :D Con el apoyo de mis amigos iniciamos una comunidad académica llamada "UPAO.net" en el 2008 cuando estábamos en 1er ciclo de la universidad. Realizamos varias actividades como eventos en auditorio, talleres, festivales de instalación, que buenos tiempos! Desde la creación de la comunidad siempre hemos estado activos, se mantiene con vida de manera consecutiva año tras año gracias a sus integrantes que comparten las mismas ganas de "aprender para compartir" lema que tenemos instalado en el C:\orazón y en el C:\erebro :D
+Hi there! good early-morning, my name is Fredy Guibert and here I'm ready with all the power 2.0!!!
 
-Tuve la oportunidad de ser Microsoft Student Partner en Perú del 2010 al 2013 y fue una de las mejores experiencias de mi vida! Actualmente Microsoft Certified Professional, en algún punto de mi vida lograré ser: "Microsoft MVP" con enfoque en Desarrollo de Software con ASP.net MVC + Azure.
+Kanji: こんにちは！良い早朝、私の名前はフレディ・ギバートで、私はすべての力で準備ができています! 
 
-Me encuentran generalmente en StackOverflow en Español, al igual que en twitter y apoyando en lo que pueda en diversas comunidades a nivel mundial :D
+Romaji: Konnichiwa! Yoi sōchō, watashi no namae ha Furedi Gibāto de, watashi wa subete no chikara de junbi ga dekite imasu!
 
-Si estás formándote como desarrollador en C# y/o empezando en el universo de .net, dale una estrella y un Fork a este repositorio: https://github.com/quozd/awesome-dotnet te dará una enorme ventaja para ver el panorama con mejores ojos.
 
-¿Has leído la documentación oficial de la tecnología que estás usando o aprendiendo?
+Hablo español, inglés y algo de japonés.
 
-    ¿Sí? Felicitaciones, ahora ayuda a los demás a que tengan esta costumbre, es muy importante
-    ¿No? Descuida, es totalmente común. ¿Quieres dejar de ser un desarrollador común y tener un mejor nivel? ¡Lee la documentación! Tú decides :D
+I speak Spanish, English and some japanese.
 
-Me ubican por Twitter y Telegram principalmente con el mismo nick: @fredyfx
+Kanji: 私はスペイン語、英語、そして少し日本語を話します
+
+Romaji: Watashi wa Supeingo, eigo, soshite sukoshi nihongo wo hanashimasu
+ 
+Twitter + Telegram = @fredyfx
 
 
 <!--
