@@ -19,6 +19,7 @@ Romaji: Watashi wa Supeingo, eigo, soshite sukoshi nihongo wo hanashimasu
  
 Twitter + Telegram = @fredyfx
 
+Stackoverflow en español: https://es.stackoverflow.com/users/822
 
 <!--
 **fredyfx/fredyfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
