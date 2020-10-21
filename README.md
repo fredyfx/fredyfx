@@ -1,6 +1,6 @@
 ### Aloha~ 👋
 
-Hola buenas madrugadas, mi nombre es Fredy Guibert y aquí le vamos siempre Con todo el power 2.0!!! 
+¡Hola buenas madrugadas! mi nombre es Fredy Guibert y aquí le vamos siempre Con todo el power 2.0!!! 
 
 Hi there! good early-morning, my name is Fredy Guibert and here I'm ready with all the power 2.0!!!
 
