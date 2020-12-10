@@ -8,7 +8,6 @@ Kanji: こんにちは！良い早朝、私の名前はフレディ・ギバー�
 
 Romaji: Konnichiwa! Yoi sōchō, watashi no namae ha Furedi Gibāto de, watashi wa subete no chikara de junbi ga dekite imasu!
 
-
 Hablo español, inglés y algo de japonés.
 
 I speak Spanish, English and some japanese.
@@ -20,6 +19,8 @@ Romaji: Watashi wa Supeingo, eigo, soshite sukoshi nihongo wo hanashimasu
 Twitter + Telegram = @fredyfx
 
 Stackoverflow en español: https://es.stackoverflow.com/users/822
+
+Tengo un curso de C# para quienes deseen aprender mejor sobre Delegados y Expresiones Lambda: https://net-university.ninja/p/c-sharp-power-up?affcode=293162_kcrdcv6n
 
 <!--
 **fredyfx/fredyfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
