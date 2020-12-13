@@ -20,7 +20,7 @@ Twitter + Telegram = @fredyfx
 
 Stackoverflow en español: https://es.stackoverflow.com/users/822
 
-Tengo un curso de C# para quienes deseen aprender mejor sobre Delegados y Expresiones Lambda: https://net-university.ninja/p/c-sharp-power-up?affcode=293162_kcrdcv6n
+Tengo un curso de C# en español para quienes deseen aprender mejor sobre Delegados, Action, Func, Predicate, Linq, Tasks Async Await y Expresiones Lambda: https://net-university.ninja/p/c-sharp-power-up?affcode=293162_kcrdcv6n
 
 <!--
 **fredyfx/fredyfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
