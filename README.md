@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Aloha! I'm Fredy Guibert
+# 👋 Aloha! I'm Fredy Guibert (フレディ)
  
 ## 🚀 Full-Stack Software Engineer | Microsoft Stack Specialist
 
